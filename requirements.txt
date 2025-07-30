@@ -1,2 +1,2 @@
-git+https://github.com/iwurui/qnapdisplay/tree/master.git
+git+https://github.com/iwurui/qnapdisplay.git
 psutil
