@@ -26,8 +26,8 @@ This utility has been tested and is confirmed to work on the following device:
 ```
 2. Clone this repository to your local machine:
 ```sh
-   git clone https://github.com/iwurui/QnapLcdInfo/tree/QnapLcdinfo-TS-453Pro.git
-   cd QnapLcdinfo-TS-453Pro
+   git clone https://github.com/iwurui/QnapLcdInfo.git
+   cd QnapLcdInfo
 ```
 3. Install requirements:
 ```sh
